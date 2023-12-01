@@ -9,5 +9,5 @@ public class Ejemplo1 {
 			suma=suma+ i; }
 		System.out.println(suma);
 	}
-
+	System.out.println(suma);
 }
