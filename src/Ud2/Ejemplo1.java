@@ -8,6 +8,8 @@ public class Ejemplo1 {
 			System.out.println(i);
 			suma=suma+ i; }
 		System.out.println(suma);
+		System.out.println("Esto es un cambio");
 	}
-	System.out.println(suma);
+	
 }
+ 
